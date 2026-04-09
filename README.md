@@ -4,4 +4,4 @@
 | **Gradle JDK** | `JDK 1.8.0_202` |
 | **compileSdkVersion** | `28` (Android 9.0 Pie) |
 | **buildToolsVersion** | `29.0.2` |
-| **JDK 설치 경로** | `C:\Program Files\Java\jdk1.8.0_202` |
+| **Android Studio version ** | Ladybug (2024.2.1) |
